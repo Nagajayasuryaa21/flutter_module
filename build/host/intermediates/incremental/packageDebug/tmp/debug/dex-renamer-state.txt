@@ -1,0 +1,4 @@
+#Mon Mar 18 12:54:26 IST 2024
+base.0=C\:\\Users\\Jayasurya\\Desktop\\ABCD_FLUTTER_SDK\\flutter_module\\build\\host\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
